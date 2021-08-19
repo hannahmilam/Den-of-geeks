@@ -15,6 +15,9 @@ body {
     }
 }
 
+.custom-color{
+    background-color: #9DB1BE;
+}
 .headline{
     padding-top: 300px; 
 }
