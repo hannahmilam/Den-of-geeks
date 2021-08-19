@@ -1,0 +1,21 @@
+body {
+    font-family: 'Exo', sans-serif;
+}
+
+.bg{
+    background-image: url("https://image.cnbcfm.com/api/v1/image/102129219-544fe3109623b.jpg?v=1497046818&w=1600&h=900");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -4px;;
+}
+
+@media only screen and (min-width: 600px){
+    .bg{
+        background-size: cover;
+    }
+}
+
+.headline{
+    padding-top: 300px; 
+}
+
